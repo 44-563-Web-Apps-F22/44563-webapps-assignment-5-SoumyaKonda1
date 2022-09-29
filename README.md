@@ -1,3 +1,3 @@
 # WebApps-Assignment-5 Starter Code
 
-Insects Pages Hosted At : [https://44-563-web-apps-f22.github.io/44563-webapps-assignment-5-SoumyaKonda1/insects.html](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-5-SoumyaKonda1/)
+Insects Pages Hosted At : [https://44-563-web-apps-f22.github.io/44563-webapps-assignment-5-SoumyaKonda1/insects.html](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-5-SoumyaKonda1/insects.html)
